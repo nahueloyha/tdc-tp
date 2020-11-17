@@ -6,8 +6,8 @@ Sistema de Control de Riego.
 
 Nombre | Legajo | Mail |
 :---: | :---: | :---: |
-Hernán Domingo | 1306315 | hernan.domingo.22@gmail.com |
-Nahuel Oyhanarte | 1545668 | noyhanarte@gmail.com |
+Hernán Domingo | 1306315 | hdomingo@est.frba.utn.edu.ar |
+Nahuel Oyhanarte | 1545668 | noyhanarte@est.frba.utn.edu.ar |
 De Luca Rodrigo | 1398143 | cdelucagallego@est.frba.utn.edu.ar | 
 Constenla Juan Manuel | 1204415 | juanconstenla@est.frba.utn.edu.ar | 
 
