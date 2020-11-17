@@ -48,8 +48,8 @@ void setup() {
   Serial.println("");
   Serial.println("    << Sistema de Riego >>    ");
   Serial.println("  Teoría de Control - UTN - FRBA  ");
-  Serial.println("Nahuel Oyhanarte <noyhanarte@gmail.com>");
-  Serial.println("Hernán Domingo <hernan.domingo.22@gmail.com>");
+  Serial.println("Nahuel Oyhanarte <noyhanarte@est.frba.utn.edu.ar>");
+  Serial.println("Hernán Domingo <hdomingo@est.frba.utn.edu.ar>");
   Serial.println("Rodrigo De Luca <cdelucagallego@est.frba.utn.edu.ar>");
   Serial.println("Juan Manuel Constenla <juanconstenla@est.frba.utn.edu.ar>");
 
