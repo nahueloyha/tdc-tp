@@ -42,6 +42,14 @@ Se armó una implementación piloto utilizando los siguientes componentes:
 
 ![Implementacion](imagenes/implementacion.jpg)
 
+## Informe
+
+![Informe](informe.pdf)
+
+## Presentación
+
+![Presentación](presentacion.pdf)
+
 ## Código
 
 El código desarrollado para esta prueba piloto fue escrito en Arduino IDE (lenguaje basado en C/C++) y puede encontrarse en [aquí](codigo/codigo.ino).
