@@ -6,7 +6,7 @@
 #define PINHUMEDAD 0  // sensor de humedad conectado al pin analógico A0
 #define INTERVALO 60  // intervalo entre mediciones cuando NO hay que regar (segundos)
 #define CONSTANTECAUDAL 50 // constante experimental según la potencia de la bomba y la superficie de riego
-#define CONSTANTEABSORCION 10 // constante experimental según el tamaño de la maceta y la evotranspiración de la planta
+#define CONSTANTEABSORCION 10 // constante experimental según el tamaño de la maceta y la evapotranspiración de la planta
 
 DHT dht(PINTEMPERATURA, DHT22);  // inicializo sensor de temperatura ambiente
 
