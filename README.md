@@ -44,11 +44,11 @@ Se armó una implementación piloto utilizando los siguientes componentes:
 
 ## Informe
 
-![Informe](informe.pdf)
+[Informe](informe.pdf)
 
 ## Presentación
 
-![Presentación](presentacion.pdf)
+[Presentación](presentacion.pdf)
 
 ## Código
 
